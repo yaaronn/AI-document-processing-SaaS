@@ -1,0 +1,18 @@
+https://github.com/yaaronn/Telegram_anonymous_chat_bot.git
+
+git remote add origin https://github.com/yaaronn/Telegram_anonymous_chat_bot.git
+
+openroute
+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
+
+consumer key
+uwWtG6bQguVMfzoj3BqqoMQtb
+
+secret key
+0L0RduanY8yjMjLXWU0O2czGmlqesBBeM0yXnJhi1ys6zeQ23p
+
+bearer token
+AAAAAAAAAAAAAAAAAAAAAGQY8AEAAAAAyE8S28P34%2FpohneiEjLYxBQujjQ%3Dee6pfNSeDuQqn8bbgxd1jEH3Hiu3EZOo9JbCGGkJHZxzbzOZfE
+
+client id
+657568885456-tge9t6ea60mufkurgg78ag5h5uaa7vdv.apps.googleusercontent.com

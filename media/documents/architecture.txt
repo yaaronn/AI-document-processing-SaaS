@@ -1,0 +1,9 @@
+doc_parser/
+│
+├── app.py              → runner
+├── parser.py           → LLM extraction
+├── schema.json         → row structure
+├── prompt.txt          → instructions for THIS coupon type
+├── images/
+│     └── sample.jpg
+└── .env
